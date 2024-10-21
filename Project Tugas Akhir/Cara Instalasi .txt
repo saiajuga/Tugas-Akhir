@@ -1,0 +1,8 @@
+Cara Instalasi :
+1. Extract file emonitoring.zip ke folder xampp/wampp
+2. import file database ke phpMyAdmin
+3. akses melalui browser localhost/emonitoring
+4. Selesai
+
+
+Credit : mitrasama.my.id
